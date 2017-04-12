@@ -1,0 +1,12 @@
+
+git add --all
+
+git commit -m ""
+
+git status
+
+git checkout develop
+
+git rebase develop
+
+git pull
